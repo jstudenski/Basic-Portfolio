@@ -1,7 +1,13 @@
 ## Basic Portfolio 
-### U of M Coding Boot Camp
----
+U of M Coding Bootcamp: Homework Assigment 1
 
 
-**TO DO:**
-> - Add Favicons
+## Quick Start
+Open index.html
+
+
+> ### TO DO:
+> - Add favicon
+> - Update portfolio project images
+> - Update portfolio project links
+> - Add HTML and CSS tags to portfolio items
