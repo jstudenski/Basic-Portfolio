@@ -159,25 +159,33 @@ h2 {font-size: 1.4em;}
 
 	.portfolio-item {
 		float: left;
-		background-color: pink;
+		background-color: #888;
 		width: 274px;
 		height: 205px;
 		margin: 28px 0px;
+		position: relative;
 	}
 
 	.portfolio-item:nth-child(even) {
-		background-color: salmon;
 		float: right;
+	}
+	
+	.portfolio-item img {
+		position: absolute;
+		z-index: 0;
 	}
 
 	.portfolio-item h2 {
+		width: 100%;
+		box-sizing: border-box;		
 		margin-top: 136px;
 	    padding: 18px;
 	    text-align: center;
-	    height: 24px;
 	    color: #ffffff;
 	    background-color: #4aaaa5;
 	    font-weight: normal;
+	    position: absolute;
+	    z-index: 1;
 	}
 
 /* Connect Sidebar */
@@ -222,3 +230,22 @@ h2 {font-size: 1.4em;}
     position: fixed;
     bottom: 0;
 }
+
+
+/*
+.call-out {
+    border-radius: 3px;
+    background: #EE3440;
+    color: #FFF;
+    display: inline-block;
+    font-size: 8px;
+    font-weight: bold;
+    padding: 4px 4px 3px 3px;
+    vertical-align: middle;
+}
+
+
+
+*/
+
+

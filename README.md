@@ -11,3 +11,5 @@ Open index.html
 > - Update portfolio project images
 > - Update portfolio project links
 > - Add HTML and CSS tags to portfolio items
+> - Lock 'Connect' section with page scroll
+> - Lift portfolio items on hover
