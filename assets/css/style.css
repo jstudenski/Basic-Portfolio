@@ -106,8 +106,16 @@ h2 {font-size: 1.4em;}
 
 	/* About Me */
 
-	.profile-picture {
-		width: 250px;
+	.about-me img {
+	    width: 225px;
+	    float: left;
+	    padding: 0px 30px 30px 0px;
+	}
+
+	.about-me {
+		background-color: rebeccapurple;
+		margin-top: 30px;
+		line-height: 2em;
 	}
 
 	/* Contact Page */
