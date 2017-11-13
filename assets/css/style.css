@@ -36,9 +36,8 @@ h2 {font-size: 1.4em;}
 
 .title h2 {
     padding: 32px 0px;
-
     text-align: center;
-    color: #ffffff;
+	color: #ffffff;
 }
 
 .navigation-links {
@@ -90,7 +89,7 @@ h2 {font-size: 1.4em;}
 
 	.body-item {
 		margin-top: 40px;
-		background-color: #fff;
+		background-color: #ffffff;
 		border: 1px solid #ddd;
 		padding: 30px;
 	}
