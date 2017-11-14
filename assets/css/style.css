@@ -53,17 +53,9 @@ h2 {font-size: 1.4em;}
 	height: 16px;
 }
 
-.nav-bar a:hover {
-	color: #bbbbbb;
-}
-
-.nav-bar a:not(:first-child) {
-    border-left: 1px solid #eeedee;
-}
-
-.current, .current:hover { color: #4aaaa5; }
-
-
+.nav-bar a:hover { color: #bbbbbb; }
+.nav-bar a:not(:first-child) { border-left: 1px solid #eeedee; }
+.nav-bar .current, .nav-bar .current:hover { color: #4aaaa5; }
 
 	/* Body */
 
