@@ -15,8 +15,9 @@ Open index.html
 > - Remove 'link-item-line' and make seperators part of the border
 > - Update 'Connect with me' links
 > - Add 'About Me' bio
-> - float '.navigation-links' container right instead of each link
+> - ~~float '.navigation-links' container right instead of each link~~
 > - check css for color consistency
+> - highlight nav link to indicate current page
 
 ------
 

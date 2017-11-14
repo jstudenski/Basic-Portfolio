@@ -47,22 +47,24 @@ h2 {font-size: 1.4em;}
 .nav-bar a {
 	text-decoration: none;
 	color: #808080;
+	float: left;
+	padding: 2px 9px 0 9px;
+	height: 16px;
 }
 
 .nav-bar a:hover {
+	color: #bbbbbb;
+}
+
+.nav-bar a:not(:first-child) {
+    border-left: 1px solid #eeedee;
+}
+
+.nav-bar .current {
 	color: #4aaaa5;
 }
 
-.nav-link {
-    float: left;
-    padding: 2px 9px 0 9px;
-    color: gray;
-    height: 16px;
-}
 
-.nav-link:not(:first-child) {
-    border-left: 1px solid #eeedee;
-}
 
 
 
