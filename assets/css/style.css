@@ -156,6 +156,12 @@ h2 {font-size: 1.4em;}
 		overflow: hidden;
 	}
 
+	.portfolio-item:hover {	    		
+		transform: translate(0,-5px);
+		transition: .25s ease-in-out;
+	}
+
+
 	.portfolio-item:nth-child(even) {
 		float: right;
 	}
@@ -246,8 +252,6 @@ h2 {font-size: 1.4em;}
     padding: 4px 4px 3px 3px;
     vertical-align: middle;
 }
-
-
 
 */
 

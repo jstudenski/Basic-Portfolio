@@ -12,6 +12,7 @@ Open index.html
 > - UX Lift portfolio items on hover
 > - Add 'About Me' bio
 > - check css for color consistency
+> - About me: first letter large
 > - ~~Remove 'link-item-line' and make seperators part of the border~~
 > - ~~Update 'Connect with me' links~~
 > - ~~float '.navigation-links' container right instead of each link~~
@@ -22,3 +23,4 @@ Open index.html
 ------
 
 ###### favicon generated from favicon.io [JS/Rounded/jaldi/100/FFFFFF/4AAAA5]
+###### background from subtlepatterns.com
