@@ -40,33 +40,31 @@ h2 {font-size: 1.4em;}
 	color: #ffffff;
 }
 
-.navigation-links {
+.nav-bar {
 	float: right;
 	margin-top: 34px;
 }
-
-.link-item {
-	float: right;
-	margin-left: 19px;
-	color: gray;
-}
-
-.link-item-line {
-	width: 1px;
-	height: 18px;
-	float: right;
-	margin-left: 19px;
-	background-color: #eeedee;
-}
-
-.link-item a {
+.nav-bar a {
 	text-decoration: none;
 	color: #808080;
 }
 
-.link-item a:hover {
-	color: #eeedee;
+.nav-bar a:hover {
+	color: #4aaaa5;
 }
+
+.nav-link {
+    float: left;
+    padding: 2px 9px 0 9px;
+    color: gray;
+    height: 16px;
+}
+
+.nav-link:not(:first-child) {
+    border-left: 1px solid #eeedee;
+}
+
+
 
 	/* Body */
 

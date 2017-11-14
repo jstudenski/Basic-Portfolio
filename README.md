@@ -13,6 +13,10 @@ Open index.html
 > - Add HTML and CSS badges to portfolio items
 > - UX Lift portfolio items on hover
 > - Remove 'link-item-line' and make seperators part of the border
+> - Update 'Connect with me' links
+> - Add 'About Me' bio
+> - float '.navigation-links' container right instead of each link
+> - check css for color consistency
 
 ------
 
