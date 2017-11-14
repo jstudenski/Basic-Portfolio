@@ -14,4 +14,7 @@ Open index.html
 > - Lock 'Connect' section with page scroll
 > - Lift portfolio items on hover
 
+------
+
+###### favicon generated from favicon.io B5555A
 
