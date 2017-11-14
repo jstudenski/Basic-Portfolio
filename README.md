@@ -11,7 +11,8 @@ Open index.html
 > - ~~Update portfolio project images~~
 > - Update portfolio project links
 > - Add HTML and CSS badges to portfolio items
-> - Lift portfolio items on hover
+> - UX Lift portfolio items on hover
+> - Remove 'link-item-line' and make seperators part of the border
 
 ------
 
