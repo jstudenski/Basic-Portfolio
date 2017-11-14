@@ -44,6 +44,7 @@ h2 {font-size: 1.4em;}
 	float: right;
 	margin-top: 34px;
 }
+
 .nav-bar a {
 	text-decoration: none;
 	color: #808080;
@@ -60,11 +61,7 @@ h2 {font-size: 1.4em;}
     border-left: 1px solid #eeedee;
 }
 
-.nav-bar .current {
-	color: #4aaaa5;
-}
-
-
+.current, .current:hover { color: #4aaaa5; }
 
 
 
