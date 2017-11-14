@@ -7,14 +7,12 @@ Open index.html
 
 
 > ### TO DO:
-> - Add favicon
+> - ~~Add favicon~~
 > - ~~Update portfolio project images~~
 > - Update portfolio project links
-> - Add HTML and CSS tags to portfolio items
-> - Lock 'Connect' section with page scroll
+> - Add HTML and CSS badges to portfolio items
 > - Lift portfolio items on hover
 
 ------
 
-###### favicon generated from favicon.io B5555A
-
+###### favicon generated from favicon.io [JS/Rounded/jaldi/100/FFFFFF/4AAAA5]
