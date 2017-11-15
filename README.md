@@ -9,10 +9,10 @@ Open index.html
 > ### TO DO:
 > - Update portfolio project links
 > - Add HTML and CSS badges to portfolio items
-> - UX Lift portfolio items on hover
 > - Add 'About Me' bio
 > - check css for color consistency
 > - About me: first letter large
+> - ~~UX Lift portfolio items on hover~~
 > - ~~Remove 'link-item-line' and make seperators part of the border~~
 > - ~~Update 'Connect with me' links~~
 > - ~~float '.navigation-links' container right instead of each link~~
