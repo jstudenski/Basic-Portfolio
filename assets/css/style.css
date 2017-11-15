@@ -152,6 +152,21 @@ input[type=submit] {
     margin-top: 19px;
 }
 
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #eeedee;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #eeedee;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #eeedee;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #eeedee;
+}
+
+
+
 
 /* Potrfolio Page */
 
@@ -163,7 +178,7 @@ input[type=submit] {
 	margin: 28px 0px;
 	position: relative;		
 	overflow: hidden;
-
+	transition: .1s ease-in-out;
 }
 
 .portfolio-item:hover {	    		
