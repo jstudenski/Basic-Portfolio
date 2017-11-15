@@ -12,6 +12,7 @@ Open index.html
 > - Add 'About Me' bio
 > - check css for color consistency
 > - About me: first letter large
+> - ~~Add .gitignore file~~
 > - ~~UX Lift portfolio items on hover~~
 > - ~~Remove 'link-item-line' and make seperators part of the border~~
 > - ~~Update 'Connect with me' links~~
