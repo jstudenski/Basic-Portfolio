@@ -103,6 +103,17 @@ h2 {font-size: 1.4em;}
 		line-height: 2em;
 	}
 
+	.about-me p:first-letter {
+		float: left;
+		font-size: 60px;
+		line-height: 60px;
+		padding-top: 4px;
+		padding-right: 8px;
+	}
+
+
+
+
 	/* Contact Page */
 
 	form p {
