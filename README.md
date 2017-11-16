@@ -9,7 +9,7 @@ Open index.html
 > ### TO DO:
 > - Update portfolio project links
 > - Add 'About Me' bio
-> - check CSS for color consistency
+> - Check CSS for color consistency
 > - ~~About me: first letter large~~
 > - ~~Add .gitignore file~~
 > - ~~UX Lift portfolio items on hover~~
