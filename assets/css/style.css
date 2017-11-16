@@ -136,10 +136,6 @@ textarea {
 	max-width: 100%
 }
 
-input[placeholder] {
-    color: #000;
-}
-
 input[type=submit] {
     width: 116px;
     height: 40px;
@@ -152,6 +148,7 @@ input[type=submit] {
     margin-top: 19px;
 }
 
+/* input placegolder color */
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
   color: #eeedee;
 }
@@ -164,8 +161,6 @@ input[type=submit] {
 :-moz-placeholder { /* Firefox 18- */
   color: #eeedee;
 }
-
-
 
 
 /* Potrfolio Page */
