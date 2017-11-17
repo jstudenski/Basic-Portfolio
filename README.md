@@ -7,7 +7,7 @@ Open index.html
 
 
 > ### TO DO:
-> - Update portfolio project links
+> - Update portfolio project links 
 > - Add 'About Me' bio
 > - Check CSS for color consistency
 > - ~~About me: first letter large~~
