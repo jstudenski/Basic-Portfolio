@@ -19,6 +19,7 @@ h2 {font-size: 1.4em;}
 }
 
 /* Header */
+
 .header {
 	height: 86px;
 	width: 100%;
@@ -60,17 +61,15 @@ h2 {font-size: 1.4em;}
 
 /* Body */
 
-
 .site-body {
-    min-height: 1200px;
-    padding-top: 88px;
+	min-height: 800px;
+	padding-top: 88px;
 }
 
 .main-content {
 	width: 588px;
 	min-height: 438px;
 	float: left;
-	margin-bottom: 200px; /* space before footer */
 }
 
 .main-content h1 {
@@ -252,6 +251,12 @@ input[type=submit] {
 	padding-left: 0px; /* remove left padding on the first link in each row */
 }
 
+.footer-push {
+	height: 200px;
+	width: 100%;
+	display: inline-block;
+}
+
 .footer {
 	font-size: 12px;
 	text-align: center;
@@ -260,9 +265,6 @@ input[type=submit] {
 	color: #CCCBC4;
 	background-color: #666666;
 	border-top: 8px solid #4aaaa5;
-	position: relative;	
-	 bottom: 0; 
-	/* z-index: 2; */
 }
 
 
